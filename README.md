@@ -3,7 +3,6 @@
 A simple and responsive Body Mass Index (BMI) calculator built with HTML, CSS, and JavaScript.  
 Supports **unit conversion** (kg/lb, m/cm/ft/in) and shows the **healthy weight range** based on height.
 
-![BMI Calculator Screenshot](https://via.placeholder.com/800x400?text=BMI+Calculator+Screenshot)
 
 ---
 
