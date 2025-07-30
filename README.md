@@ -17,17 +17,11 @@ Supports **unit conversion** (kg/lb, m/cm/ft/in) and shows the **healthy weight 
 
 ---
 
-## 🚀 Live Demo
-
-> You can deploy it with [GitHub Pages](https://pages.github.com/) or any static hosting platform.
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Media queries for responsiveness)
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
